@@ -1,6 +1,0 @@
-master password
-PBKDF2 function -> random salt which will be stored in vault file
-
-both combine to make a master key which will not exist in database but will be in memory only
-
-HMAC function that generates unique password per site and AES-GCM encryption that encrypts passwords
