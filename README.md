@@ -15,7 +15,7 @@ A command-line password manager built in Python. No cloud, no third parties. Eve
 ## Installation
 
 ```bash
-git clone https://github.com/yourusername/pm-vault.git
+git clone https://github.com/Kle1nnn/Password-Manager
 cd pm-vault
 pip install cryptography
 ```
