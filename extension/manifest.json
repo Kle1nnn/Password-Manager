@@ -1,0 +1,16 @@
+{
+    "manifest_version": 3,
+    "name": "Password Manager",
+    "version": "1.0",
+    "description": "Local password manager extension",
+    "action": {
+        "default_popup": "popup.html",
+        "default_icon": "icon.png"
+    },
+    "permissions": [
+        "activeTab"
+    ],
+    "host_permissions": [
+        "http://localhost:5000/*"
+    ]
+}
