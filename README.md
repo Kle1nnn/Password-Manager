@@ -70,8 +70,7 @@ pm-vault/
 ## Roadmap
 
 - [x] v1 — CLI password manager
-- [x] v1.5 — Local Flask API server
-- [ ] v2 — Browser extension for Firefox and Brave with full GUI
+- [x] Browser extension for Firefox and Brave with full GUI
 
 ---
 
